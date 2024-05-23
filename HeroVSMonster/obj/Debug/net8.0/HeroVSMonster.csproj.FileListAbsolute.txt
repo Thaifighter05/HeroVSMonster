@@ -1,0 +1,14 @@
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\bin\Debug\net8.0\HeroVSMonster.exe
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\bin\Debug\net8.0\HeroVSMonster.deps.json
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\bin\Debug\net8.0\HeroVSMonster.runtimeconfig.json
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\bin\Debug\net8.0\HeroVSMonster.dll
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\bin\Debug\net8.0\HeroVSMonster.pdb
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\obj\Debug\net8.0\HeroVSMonster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\obj\Debug\net8.0\HeroVSMonster.AssemblyInfoInputs.cache
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\obj\Debug\net8.0\HeroVSMonster.AssemblyInfo.cs
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\obj\Debug\net8.0\HeroVSMonster.csproj.CoreCompileInputs.cache
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\obj\Debug\net8.0\HeroVSMonster.dll
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\obj\Debug\net8.0\refint\HeroVSMonster.dll
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\obj\Debug\net8.0\HeroVSMonster.pdb
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\obj\Debug\net8.0\HeroVSMonster.genruntimeconfig.cache
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\Programmering\HeroVSMonster\HeroVSMonster\obj\Debug\net8.0\ref\HeroVSMonster.dll
