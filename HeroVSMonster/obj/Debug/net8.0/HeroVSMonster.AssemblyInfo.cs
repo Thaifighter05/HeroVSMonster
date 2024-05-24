@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeroVSMonster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f134b1f81405b70cefa6bf366c1c79b9f78e791e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeroVSMonster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeroVSMonster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
